@@ -57,3 +57,6 @@ if __name__ == "__main__":
         last = recognize_audio(5) # 0 is the default device index
         print(get_first_word(last) + ' ' + get_last_word(last))
         pemilihan_kata(get_first_word(last),get_last_word(last))
+
+# cek
+        
